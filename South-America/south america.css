@@ -12,6 +12,7 @@ body{
 
 h1{
     font-size: 70px;
+    text-decoration: underline;
 }
 
 p{

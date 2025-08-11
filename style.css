@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin: 7px;
+    margin: 10px;
     border: 0px;
     text-align: center;
 }
@@ -12,6 +12,7 @@ body{
 h1{
     color: white;
     font-size: 70px;
+    text-decoration: underline;
 }
 
 div{
