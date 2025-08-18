@@ -3,6 +3,7 @@
     margin: 10px;
     border: 0px;
     text-align: center;
+    justify-content: center;
 }
 
 body{
@@ -22,7 +23,6 @@ div{
     height: 100px;
     width: 450px;
     border-radius: 10px;
-    justify-content: center;
 }
 
 h2{
@@ -35,5 +35,4 @@ p{
 
 a{
     text-decoration: none;
-    text-align: left;
 }
