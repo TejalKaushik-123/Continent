@@ -41,3 +41,7 @@ p{
 a{
     text-decoration: none;
 }
+
+#footer-text{
+    font-size: 15px;
+}
