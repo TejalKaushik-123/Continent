@@ -19,7 +19,7 @@ h1{
 div{
     color: white;
     background-color: #03045e;
-    display: flex;
+    display: inline-block;
     height: 100px;
     width: 450px;
     border-radius: 10px;
