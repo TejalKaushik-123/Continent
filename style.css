@@ -42,6 +42,9 @@ a{
     text-decoration: none;
 }
 
-#footer-text{
-    font-size: 15px;
+#f{
+    font-size: 18px;
+    color: white;
+    margin: 20px;
+    text-align: left;
 }
